@@ -1,7 +1,5 @@
 import { useState } from "react"
 
-
-
 const TwiterFollowCard = ({ children, userName, initialIsFollowing }) => {
 
   const [isFollowing, setIsFollowing] = useState(initialIsFollowing)
