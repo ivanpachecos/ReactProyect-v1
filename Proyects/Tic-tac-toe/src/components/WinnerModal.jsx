@@ -17,7 +17,5 @@ export function WinnerModal({winner, resetGame}) {
         </footer>
       </div>
     </section>
-
-
   )
 }
